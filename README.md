@@ -1,1 +1,1 @@
-Using a coinbase account with a cash asset, this program calculates the difference in bitcoin price every specified time interval. If the price drops a specified amount within the time interval, buy a specified amount of bitcoin.
+Using a coinbase account with a cash asset, this program calculates the difference in bitcoin price every specified time interval. If the price drops a set amount within the time interval, buy some bitcoin.
